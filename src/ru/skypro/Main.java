@@ -9,6 +9,7 @@ public class Main {
             System.out.println("Установите версию приложения для Android по ссылке");
         } else {
             System.out.println("Установите версию приложения для iOS по ссылке");
+        }
 
 
             //Задание 2
@@ -24,6 +25,7 @@ public class Main {
                     System.out.println("Установите облегченную версию приложения для Android по ссылке");
                 } else {
                     System.out.println("Установите нынешнюю версию для Android");
+                }
 
                     //Задание 3
                     int year = 2022;
@@ -31,6 +33,7 @@ public class Main {
                         System.out.println(year + "Является високосным");
                     } else {
                         System.out.println(year + "Не является високосным");
+                    }
 
                         //Задание 4
                         int deliveryDistance = 95;
@@ -87,8 +90,8 @@ public class Main {
             }
 
 
-        }
-    }
-}
-    }
-}
+
+
+
+
+
